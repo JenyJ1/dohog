@@ -1,31 +1,24 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"",
+"GD5TVDI2RN7D35BOEOEUIZTYRAEY2F765KHAD27WJW3N52D6FRXMBYQ5",
 ]
 
 [DOCUMENTATION]
-ORG_NAME=""
-ORG_URL=""
-ORG_DESCRIPTION=""
-ORG_LOGO=""
-ORG_PHYSICAL_ADDRESS=""
-ORG_OFFICIAL_EMAIL=""
-
-[[PRINCIPALS]]
-name=""
+ORG_NAME="Ochsner"
+ORG_URL="https://www.ochsner-stellar.com/"
+ORG_DESCRIPTION="Ochsner Digital Medicine empowers you to take control of high blood pressure and/or Type 2 diabetes with guidance, support and monitoring from home."
+ORG_LOGO="https://www.ochsner-stellar.com/och.png"
 
 
 [[CURRENCIES]]
-code=""
+code="Ochsner"
 status="live"
 display_decimals=2
-issuer=""
-anchor_asset_type="crypto"
-name=""
-desc=""
-image=""
-fixed_number=
-max_number=
+issuer="GD5TVDI2RN7D35BOEOEUIZTYRAEY2F765KHAD27WJW3N52D6FRXMBYQ5"
+name="Ochsner"
+desc="Ochsner Digital Medicine empowers you to take control of high blood pressure and/or Type 2 diabetes with guidance, support and monitoring from home."
+image="https://www.ochsner-stellar.com/och.png"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-# was issued using the open and inclusive Stellar blockchain network.

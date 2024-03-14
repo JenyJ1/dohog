@@ -1,31 +1,31 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GDSPZEKSGHDTGIB74UPQTDZMVJU2CRNJNSHJ24GVIWQ6DFHUPPFLWSA5",
+"",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="Corda R3"
-ORG_URL="https://stellarcorda.org"
-ORG_DESCRIPTION="Prostellar has been released on Stellar Blockchain!"
-ORG_LOGO="https://i.ibb.co/4W1qFhF/r3corda.png"
-ORG_PHYSICAL_ADDRESS="2 London Wall Place, 11th Floor London, EC2Y 5AU"
-ORG_OFFICIAL_EMAIL="cordasupport@gmail.com"
+ORG_NAME=""
+ORG_URL=""
+ORG_DESCRIPTION=""
+ORG_LOGO=""
+ORG_PHYSICAL_ADDRESS=""
+ORG_OFFICIAL_EMAIL=""
 
 [[PRINCIPALS]]
-name="Silvia Attanasio"
+name=""
 
 
 [[CURRENCIES]]
-code="XCORDA"
+code=""
 status="live"
 display_decimals=2
-issuer="GDSPZEKSGHDTGIB74UPQTDZMVJU2CRNJNSHJ24GVIWQ6DFHUPPFLWSA5"
+issuer=""
 anchor_asset_type="crypto"
-name="Corda R3"
-desc="R3’s Corda is the world’s leading private, permissioned distributed application platform powering multi-party workflows. Discover why hundreds of regulated institutions have chosen Corda to fuel the modernization of their business and drive greater efficiencies."
-image="https://i.ibb.co/4W1qFhF/r3corda.png"
-fixed_number=1000000000
-max_number=100000000
+name=""
+desc=""
+image=""
+fixed_number=
+max_number=
 is_unlimited=false
-#Corda R3 was issued using the open and inclusive Stellar blockchain network.
+# was issued using the open and inclusive Stellar blockchain network.
